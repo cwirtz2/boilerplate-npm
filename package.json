@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Chris Wirtz",
+	"description": "this is a test package for code training"
 	"dependencies": {
 		"express": "^4.14.0"
 	},
