@@ -6,6 +6,7 @@
 		"express": "^4.14.0"
 	},
 	"keywords": ["practice", "code", "API", "npm", "freecodecamp"],
+	"license": "test",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
