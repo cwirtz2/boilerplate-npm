@@ -1,6 +1,6 @@
 {
-	"author": "Chris Wirtz",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Chris Wirtz",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
