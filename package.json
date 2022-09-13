@@ -3,7 +3,7 @@
 	"author": "Chris Wirtz",
 	"description": "this is a test package for code training",
 	"dependencies": {
-		"@freecodecamp/example":"1.2.13",
+		"@freecodecamp/example":"~1.2.13",
 		"express": "^4.14.0"
 	},
 	"keywords": ["practice", "code", "API", "npm", "freecodecamp"],
